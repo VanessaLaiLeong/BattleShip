@@ -1,0 +1,16 @@
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+F:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+D:\Projetos\C#\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
