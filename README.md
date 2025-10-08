@@ -1,9 +1,9 @@
 # BattleShip
 
 Este projeto consiste na implementação do jogo clássico Batalha Naval em C#, desenvolvido como parte de uma avaliação académica. O jogo permite que dois jogadores posicionem os barcos em um tabuleiro e tentem acertar nas embarcações do oponente, seguindo as regras tradicionais do jogo.
-Link: VanessaLaiLeong/BattleShip
+
 Principais Funcionalidades
-•	Tabuleiro de 10x10 para cada jogador
+  Tabuleiro de 10x10 para cada jogador
 •	Modo PvP (Jogador vs Jogador)
 •	Posicionamento de barcos (8 por jogador)
 •	Indicação de acerto (tiro no barco) ou erro (água)
